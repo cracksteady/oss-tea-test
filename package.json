@@ -1,5 +1,5 @@
 {
-  "name": "OSS-test",
+  "name": "oss-tea-test",
   "description": "tea oss testnet",
   "version": "1.0.0",
   "main": "./dist/index.js",
@@ -13,7 +13,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cracksteady/oss-test.git"
+    "url": "https://github.com/cracksteady/oss-tea-test.git"
   },
   "keywords": [
     "tea"
@@ -21,7 +21,7 @@
   "author": "cracksteady",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cracksteady/oss-test"
+    "url": "https://github.com/cracksteady/oss-tea-test"
   },
-  "homepage": "https://github.com/cracksteady/oss-test#readme"
+  "homepage": "https://github.com/cracksteady/oss-tea-test#readme"
 }
